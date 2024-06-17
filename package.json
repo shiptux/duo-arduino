@@ -1,8 +1,8 @@
 {
     "name": "framework-arduino-sophgo",
     "description": "Arduino Wiring-based Framework (Sophgo Core)",
-    "version": "0.2.3",
-    "url": "https://github.com/xxx/arduino-sophgo",
+    "version": "0.2.4",
+    "url": "https://github.com/milkv-duo/duo-arduino",
     "keywords": [
         "framework",
         "arduino",

@@ -23,7 +23,7 @@ copyright = '2024, sophgo'
 author = 'sophgo'
 
 # The full version, including alpha/beta/rc tags
-# release = '0.2.3'
+# release = 'X.X.X'
 
 
 # -- General configuration ---------------------------------------------------
